@@ -1,1 +1,1 @@
-# CS1030ProjectsEGSH
+# my-cs1030-repo
